@@ -1,0 +1,77 @@
+{
+  "source": "FBref via SoccerData",
+  "season": "2025-2026",
+  "leagues_requested": [
+    "ENG-Premier League",
+    "ESP-La Liga",
+    "GER-Bundesliga",
+    "ITA-Serie A",
+    "FRA-Ligue 1"
+  ],
+  "leagues_returned": [
+    "ENG-Premier League",
+    "ESP-La Liga",
+    "FRA-Ligue 1",
+    "GER-Bundesliga",
+    "ITA-Serie A"
+  ],
+  "retrieved_at_utc": "2026-11-05T11:28:53.933398+00:00",
+  "minimum_minutes": 300,
+  "rows_full_pool": 2839,
+  "rows_eligible_outfield_pool": 1999,
+  "rows_shortlist": 60,
+  "features_used": [
+    "goals_per_90",
+    "assists_per_90",
+    "goal_contributions_per_90",
+    "shots_per_90",
+    "shots_on_target_per_90",
+    "tackles_won_per_90",
+    "interceptions_per_90",
+    "crosses_per_90"
+  ],
+  "metric_merge_audit": [
+    {
+      "table": "shooting",
+      "status": "merged",
+      "reason": "",
+      "keys": [
+        "player_name",
+        "team",
+        "league",
+        "season"
+      ]
+    },
+    {
+      "table": "playing_time",
+      "status": "merged",
+      "reason": "",
+      "keys": [
+        "player_name",
+        "team",
+        "league",
+        "season"
+      ]
+    },
+    {
+      "table": "misc",
+      "status": "merged",
+      "reason": "",
+      "keys": [
+        "player_name",
+        "team",
+        "league",
+        "season"
+      ]
+    }
+  ],
+  "limitations": [
+    "2025/26 historical statistics do not establish current 2026/27 form.",
+    "No transfer fees, market values, contract status or availability are included.",
+    "The shortlist targets up to 20 players per outfield position; actual counts depend on source coverage and the 300-minute eligibility filter.",
+    "Players with 300–449 minutes have smaller samples and should be reviewed cautiously.",
+    "Player roles are approximated from broad FBref position labels.",
+    "League strength and tactical context differ across competitions.",
+    "The screening score is descriptive and is not a probability of transfer success."
+  ]
+}

@@ -1,0 +1,9 @@
+feature,non_missing,missing_percent,unique_values
+goals_per_90,1999,0.0,88
+assists_per_90,1999,0.0,58
+goal_contributions_per_90,1999,0.0,106
+shots_per_90,1999,0.0,365
+shots_on_target_per_90,1999,0.0,185
+tackles_won_per_90,1999,0.0,1810
+interceptions_per_90,1999,0.0,1798
+crosses_per_90,1999,0.0,1792

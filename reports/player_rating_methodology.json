@@ -1,0 +1,45 @@
+{
+  "score_name": "Position-aware Player Performance Score v1",
+  "scale": "0-100 percentile-based composite",
+  "comparison_group": "same season and broad position group",
+  "minimum_minutes_for_main_leaderboard": 450,
+  "weights": {
+    "FW": {
+      "goals_per_90": 0.35,
+      "assists_per_90": 0.2,
+      "goal_contributions_per_90": 0.25,
+      "xg_per_90": 0.1,
+      "xa_per_90": 0.1
+    },
+    "MF": {
+      "goals_per_90": 0.15,
+      "assists_per_90": 0.25,
+      "goal_contributions_per_90": 0.2,
+      "xg_per_90": 0.1,
+      "xa_per_90": 0.15,
+      "key_passes_per_90": 0.1,
+      "progressive_passes_per_90": 0.05
+    },
+    "DF": {
+      "assists_per_90": 0.15,
+      "goal_contributions_per_90": 0.1,
+      "progressive_passes_per_90": 0.25,
+      "progressive_carries_per_90": 0.15,
+      "tackles_interceptions_per_90": 0.25,
+      "key_passes_per_90": 0.1
+    },
+    "GK": {}
+  },
+  "metrics_found_in_dataset": {
+    "goals_per_90": "goals_per_90"
+  },
+  "missing_metric_policy": "Do not impute missing metrics; re-normalize weights across available metrics per position.",
+  "small_sample_policy": "Flag all players under 450 minutes; main leaderboard requires at least 450 minutes.",
+  "limitations": [
+    "This is a descriptive score, not a forecast of future performance.",
+    "Score depends on the metrics available in the source extract.",
+    "Percentile scores depend on the observed players in each season-position group.",
+    "Goalkeepers are not scored until goalkeeper-specific metrics are added.",
+    "A minimum-minute threshold reduces but does not eliminate sample-size bias."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "input_rows": 92,
+  "cleaned_rows": 92,
+  "unique_players": 50,
+  "exact_duplicate_rows_removed": 0,
+  "unresolved_duplicate_key_rows": 0,
+  "missing_player_ids": 0,
+  "key_columns": [
+    "player_id",
+    "season",
+    "club",
+    "competition"
+  ],
+  "range_checks": [
+    {
+      "check": "negative_minutes",
+      "flagged_rows": 0,
+      "rule": "minutes >= 0"
+    },
+    {
+      "check": "negative_goals",
+      "flagged_rows": 0,
+      "rule": "goals >= 0"
+    },
+    {
+      "check": "age_outside_15_45",
+      "flagged_rows": 0,
+      "rule": "review ages outside 15–45"
+    }
+  ],
+  "status": "PASS_WITH_REVIEW",
+  "created_at_utc": "2026-11-05T09:40:02.848289+00:00"
+}

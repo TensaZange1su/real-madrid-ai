@@ -1,0 +1,116 @@
+{
+  "model": "KMeans",
+  "task": "Unsupervised player archetype discovery",
+  "random_state": 42,
+  "input_file": "C:\\Users\\1alma\\DataspellProjects\\real-madrid-ai\\data\\processed\\real_madrid_player_ratings.csv",
+  "features": [
+    "goals_per_90",
+    "assists_per_90",
+    "shots_per_90",
+    "shots_on_target_per_90",
+    "tackles_won_per_90",
+    "interceptions_per_90",
+    "crosses_per_90"
+  ],
+  "position_groups": [
+    "DF",
+    "FW",
+    "MF"
+  ],
+  "minimum_minutes": 450,
+  "selection_metric": "Silhouette score",
+  "cluster_evaluation": [
+    {
+      "position_group": "DF",
+      "k": 2,
+      "silhouette_score": 0.24361767021715844,
+      "selected": false,
+      "n_rows": 22
+    },
+    {
+      "position_group": "DF",
+      "k": 3,
+      "silhouette_score": 0.2654817701415269,
+      "selected": true,
+      "n_rows": 22
+    },
+    {
+      "position_group": "DF",
+      "k": 4,
+      "silhouette_score": 0.22910545586669429,
+      "selected": false,
+      "n_rows": 22
+    },
+    {
+      "position_group": "DF",
+      "k": 5,
+      "silhouette_score": 0.19045336591107356,
+      "selected": false,
+      "n_rows": 22
+    },
+    {
+      "position_group": "FW",
+      "k": 2,
+      "silhouette_score": 0.2580103303880774,
+      "selected": false,
+      "n_rows": 16
+    },
+    {
+      "position_group": "FW",
+      "k": 3,
+      "silhouette_score": 0.22702508175639172,
+      "selected": false,
+      "n_rows": 16
+    },
+    {
+      "position_group": "FW",
+      "k": 4,
+      "silhouette_score": 0.24616135387403132,
+      "selected": false,
+      "n_rows": 16
+    },
+    {
+      "position_group": "FW",
+      "k": 5,
+      "silhouette_score": 0.26741709886549997,
+      "selected": true,
+      "n_rows": 16
+    },
+    {
+      "position_group": "MF",
+      "k": 2,
+      "silhouette_score": 0.28169118684509054,
+      "selected": false,
+      "n_rows": 20
+    },
+    {
+      "position_group": "MF",
+      "k": 3,
+      "silhouette_score": 0.262104403898656,
+      "selected": false,
+      "n_rows": 20
+    },
+    {
+      "position_group": "MF",
+      "k": 4,
+      "silhouette_score": 0.2644681753032207,
+      "selected": false,
+      "n_rows": 20
+    },
+    {
+      "position_group": "MF",
+      "k": 5,
+      "silhouette_score": 0.2891927121851739,
+      "selected": true,
+      "n_rows": 20
+    }
+  ],
+  "limitations": [
+    "Only Real Madrid player-season rows are included; this is not an external transfer market model.",
+    "Three seasons and one club provide a small, selection-biased sample.",
+    "Clusters describe statistical similarity, not quality or future potential.",
+    "Per-90 metrics can be volatile even after a minimum-minutes threshold.",
+    "Median imputation and scaling affect the cluster structure.",
+    "Similarity is meaningful only within the same broad position group."
+  ]
+}

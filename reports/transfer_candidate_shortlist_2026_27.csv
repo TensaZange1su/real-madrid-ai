@@ -1,0 +1,16 @@
+player_name,team,league,position_group,age,minutes,scouting_score,position_need_score,priority_score,score_method,cost_status
+Harry Kane,Bayern Munich,GER-Bundesliga,FW,32,2377,100.0,43.472044387537345,83.0416133162612,fallback position-wise mean percentile of available metrics,unknown — excluded
+Donyell Malen,Roma,ITA-Serie A,FW,26,1467,78.33333333333333,43.472044387537345,67.87494664959453,fallback position-wise mean percentile of available metrics,unknown — excluded
+Erling Haaland,Manchester City,ENG-Premier League,FW,25,2953,77.5,43.472044387537345,67.2916133162612,fallback position-wise mean percentile of available metrics,unknown — excluded
+Max Finkgräfe,RB Leipzig,GER-Bundesliga,DF,21,504,81.25,28.329903978052123,65.37397119341563,fallback position-wise mean percentile of available metrics,unknown — excluded
+Albert Grønbaek,Hamburger SV,GER-Bundesliga,MF,24,492,82.5,22.566222630531314,64.51986678915938,fallback position-wise mean percentile of available metrics,unknown — excluded
+Deniz Undav,Stuttgart,GER-Bundesliga,FW,29,2241,72.5,43.472044387537345,63.791613316261206,fallback position-wise mean percentile of available metrics,unknown — excluded
+Ousmane Dembélé,Paris SG,FRA-Ligue 1,FW,28,1063,70.83333333333333,43.472044387537345,62.624946649594534,fallback position-wise mean percentile of available metrics,unknown — excluded
+Vanderson,Monaco,FRA-Ligue 1,MF,24,616,72.5,22.566222630531314,57.519866789159394,fallback position-wise mean percentile of available metrics,unknown — excluded
+Alessio Castro-Montes,Köln,GER-Bundesliga,MF,28,672,70.0,22.566222630531314,55.769866789159394,fallback position-wise mean percentile of available metrics,unknown — excluded
+Alfonso Pedraza,Villarreal,ESP-La Liga,DF,29,1689,67.5,28.329903978052123,55.748971193415635,fallback position-wise mean percentile of available metrics,unknown — excluded
+Quilindschy Hartman,Burnley,ENG-Premier League,DF,23,1825,65.0,28.329903978052123,53.998971193415635,fallback position-wise mean percentile of available metrics,unknown — excluded
+Sergi Cardona,Villarreal,ESP-La Liga,DF,26,1970,63.125,28.329903978052123,52.686471193415635,fallback position-wise mean percentile of available metrics,unknown — excluded
+Sergio Gómez,Real Sociedad,ESP-La Liga,DF,24,2701,61.25,28.329903978052123,51.373971193415635,fallback position-wise mean percentile of available metrics,unknown — excluded
+Fabien Centonze,Nantes,FRA-Ligue 1,MF,29,736,61.25,22.566222630531314,49.644866789159394,fallback position-wise mean percentile of available metrics,unknown — excluded
+Patrick Dorgu,Manchester Utd,ENG-Premier League,MF,20,1449,58.75,22.566222630531314,47.894866789159394,fallback position-wise mean percentile of available metrics,unknown — excluded

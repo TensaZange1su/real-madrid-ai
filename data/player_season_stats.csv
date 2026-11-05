@@ -1,0 +1,38 @@
+player_id,player_name,season,club,competition,position,age,matches,starts,minutes,goals,assists,goal_contributions,goals_per_90,assists_per_90,scope,source,data_status
+federico_valverde,Federico Valverde,2023/24,Real Madrid,La Liga,MF,25,37,33.0,2904,2.0,7.0,9.0,0.062,0.217,Domestic league,FBref,Retrieved source row
+antonio_rudiger,Antonio Rüdiger,2023/24,Real Madrid,La Liga,DF,30,33,30.0,2709,1.0,0.0,1.0,0.033,0.0,Domestic league,FBref,Retrieved source row
+rodrygo,Rodrygo,2023/24,Real Madrid,La Liga,FW,22,34,28.0,2380,10.0,5.0,15.0,0.378,0.189,Domestic league,FBref,Retrieved source row
+jude_bellingham,Jude Bellingham,2023/24,Real Madrid,La Liga,"MF,FW",20,28,27.0,2315,19.0,6.0,25.0,0.739,0.233,Domestic league,FBref,Retrieved source row
+dani_carvajal,Dani Carvajal,2023/24,Real Madrid,La Liga,DF,31,28,25.0,2171,4.0,3.0,7.0,0.166,0.124,Domestic league,FBref,Retrieved source row
+toni_kroos,Toni Kroos,2023/24,Real Madrid,La Liga,MF,33,33,24.0,2124,1.0,8.0,9.0,0.042,0.339,Domestic league,FBref,Retrieved source row
+aurelien_tchouameni,Aurélien Tchouaméni,2023/24,Real Madrid,La Liga,"MF,DF",23,27,22.0,1987,3.0,1.0,4.0,0.136,0.045,Domestic league,FBref,Retrieved source row
+vinicius_júnior,Vinícius Júnior,2023/24,Real Madrid,La Liga,FW,23,26,22.0,1864,15.0,5.0,20.0,0.724,0.241,Domestic league,FBref,Retrieved source row
+andriy_lunin,Andriy Lunin,2023/24,Real Madrid,La Liga,GK,24,21,21.0,1890,0.0,0.0,0.0,0.0,0.0,Domestic league,FBref,Retrieved source row
+eduardo_camavinga,Eduardo Camavinga,2023/24,Real Madrid,La Liga,MF,20,31,21.0,1817,0.0,2.0,2.0,0.0,0.099,Domestic league,FBref,Retrieved source row
+ferland_mendy,Ferland Mendy,2023/24,Real Madrid,La Liga,DF,28,23,21.0,1720,0.0,0.0,0.0,0.0,0.0,Domestic league,FBref,Retrieved source row
+nacho,Nacho,2023/24,Real Madrid,La Liga,DF,33,29,18.0,1746,0.0,1.0,1.0,0.0,0.052,Domestic league,FBref,Retrieved source row
+luka_modrić,Luka Modrić,2023/24,Real Madrid,La Liga,MF,37,32,18.0,1688,2.0,6.0,8.0,0.107,0.32,Domestic league,FBref,Retrieved source row
+brahim_diaz,Brahim Díaz,2023/24,Real Madrid,La Liga,"MF,FW",23,31,18.0,1545,8.0,6.0,14.0,0.466,0.35,Domestic league,FBref,Retrieved source row
+joselu,Joselu,2023/24,Real Madrid,La Liga,FW,33,34,15.0,1687,10.0,2.0,12.0,0.533,0.107,Domestic league,FBref,Retrieved source row
+fran_garcia,Fran García,2023/24,Real Madrid,La Liga,DF,23,25,15.0,1398,1.0,5.0,6.0,0.064,0.322,Domestic league,FBref,Retrieved source row
+lucas_vazquez,Lucas Vázquez,2023/24,Real Madrid,La Liga,DF,32,29,14.0,1419,,,,,,Domestic league,FBref,Retrieved source row
+david_alaba,David Alaba,2023/24,Real Madrid,La Liga,DF,31,14,14.0,1154,,,,,,Domestic league,FBref,Retrieved source row
+federico_valverde,Federico Valverde,2024/25,Real Madrid,La Liga,"MF,DF",26,36,34.0,3032,6.0,4.0,10.0,0.178,0.119,Domestic league,FBref,Retrieved source row
+kylian_mbappe,Kylian Mbappé,2024/25,Real Madrid,La Liga,FW,25,34,34.0,2907,31.0,3.0,34.0,0.96,0.093,Domestic league,FBref,Retrieved source row
+aurelien_tchouameni,Aurélien Tchouaméni,2024/25,Real Madrid,La Liga,"DF,MF",24,32,31.0,2689,0.0,0.0,0.0,0.0,0.0,Domestic league,FBref,Retrieved source row
+thibaut_courtois,Thibaut Courtois,2024/25,Real Madrid,La Liga,GK,32,30,30.0,2700,0.0,0.0,0.0,0.0,0.0,Domestic league,FBref,Retrieved source row
+jude_bellingham,Jude Bellingham,2024/25,Real Madrid,La Liga,MF,21,31,29.0,2488,9.0,8.0,17.0,0.326,0.289,Domestic league,FBref,Retrieved source row
+antonio_rudiger,Antonio Rüdiger,2024/25,Real Madrid,La Liga,DF,31,29,26.0,2291,0.0,0.0,0.0,0.0,0.0,Domestic league,FBref,Retrieved source row
+lucas_vazquez,Lucas Vázquez,2024/25,Real Madrid,La Liga,DF,33,32,25.0,2189,1.0,5.0,6.0,0.041,0.206,Domestic league,FBref,Retrieved source row
+vinicius_júnior,Vinícius Júnior,2024/25,Real Madrid,La Liga,"FW,MF",24,30,24.0,2253,11.0,8.0,19.0,0.439,0.32,Domestic league,FBref,Retrieved source row
+fran_garcia,Fran García,2024/25,Real Madrid,La Liga,DF,24,31,24.0,2171,0.0,2.0,2.0,0.0,0.083,Domestic league,FBref,Retrieved source row
+rodrygo,Rodrygo,2024/25,Real Madrid,La Liga,"MF,FW",23,30,22.0,1928,6.0,5.0,11.0,0.28,0.233,Domestic league,FBref,Retrieved source row
+thibaut_courtois,Thibaut Courtois,2025/26,Real Madrid,La Liga,GK,33,32,32.0,2880,0.0,0.0,0.0,0.0,0.0,Domestic league,FBref,Retrieved source row
+vinicius_júnior,Vinícius Júnior,2025/26,Real Madrid,La Liga,"FW,MF",25,36,32.0,2815,16.0,5.0,21.0,0.512,0.16,Domestic league,FBref,Retrieved source row
+federico_valverde,Federico Valverde,2025/26,Real Madrid,La Liga,"MF,DF",27,33,31.0,2740,5.0,8.0,13.0,0.164,0.263,Domestic league,FBref,Retrieved source row
+aurelien_tchouameni,Aurélien Tchouaméni,2025/26,Real Madrid,La Liga,MF,25,33,31.0,2615,1.0,0.0,1.0,0.034,0.0,Domestic league,FBref,Retrieved source row
+kylian_mbappe,Kylian Mbappé,2025/26,Real Madrid,La Liga,FW,26,31,29.0,2599,25.0,5.0,30.0,0.866,0.173,Domestic league,FBref,Retrieved source row
+yan_diomande,Yan Diomande,2024/25,Leganés,La Liga,FW,17,10,6.0,545,2.0,1.0,3.0,0.33,0.165,Domestic league,FBref,Verified source row
+yan_diomande,Yan Diomande,2025/26,RB Leipzig,Bundesliga,FW,18,33,28.0,2472,12.0,8.0,20.0,0.437,0.291,Domestic league,FBref,Verified source row
+yan_diomande,Yan Diomande,2026/27,Real Madrid,La Liga,FW,19,11,,632,3.0,2.0,5.0,0.427,0.285,Domestic league,Opta Analyst,Snapshot retrieved 2026-11-05
+yan_diomande,Yan Diomande,2026/27,Real Madrid,UEFA Champions League,FW,19,4,,176,1.0,2.0,3.0,0.511,1.023,Continental competition,Opta Analyst,Snapshot retrieved 2026-11-05

@@ -1,0 +1,4 @@
+table,status,reason,keys
+shooting,merged,,"['player_name', 'team', 'league', 'season']"
+playing_time,merged,,"['player_name', 'team', 'league', 'season']"
+misc,merged,,"['player_name', 'team', 'league', 'season']"

@@ -1,0 +1,4 @@
+check,flagged_rows,rule
+negative_minutes,0,minutes >= 0
+negative_goals,0,goals >= 0
+age_outside_15_45,0,review ages outside 15–45

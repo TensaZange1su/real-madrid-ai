@@ -1,0 +1,4 @@
+position_group,players_450_plus,total_position_minutes,top3_minutes_share,top3_player_names,depth_component,concentration_component,need_score,planning_season,baseline_season,interpretation
+FW,6,9372.0,0.7118011096884337,"Vinicius Júnior, Kylian Mbappé, Brahim Díaz",0.25,0.7118011096884337,43.472044387537345,2026/27,2025/26,screening signal; validate with tactical and contract context
+DF,7,11664.0,0.5207475994513031,"Álvaro Carreras, Dean Huijsen, Raúl Asencio",0.125,0.5207475994513031,28.329903978052123,2026/27,2025/26,screening signal; validate with tactical and contract context
+MF,8,13062.0,0.5641555657632829,"Federico Valverde, Aurélien Tchouaméni, Arda Güler",0.0,0.5641555657632829,22.566222630531314,2026/27,2025/26,screening signal; validate with tactical and contract context

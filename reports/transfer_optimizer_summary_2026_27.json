@@ -1,0 +1,24 @@
+{
+  "planning_season": "2026/27",
+  "baseline_season": "2025/26",
+  "budget_assumption_eur": 200000000,
+  "max_signings": 3,
+  "scouting_candidates_after_minutes_filter": 60,
+  "verified_confirmed_fee_candidates": 0,
+  "optimizer_ready": false,
+  "selected_signings": 0,
+  "selected_fees_eur": null,
+  "highest_need_position": "FW",
+  "need_scores": {
+    "FW": 43.472044387537345,
+    "DF": 28.329903978052123,
+    "MF": 22.566222630531314
+  },
+  "cost_template_path": "C:\\Users\\1alma\\DataspellProjects\\real-madrid-ai\\data\\external\\verified_transfer_costs_template.csv",
+  "limitations": [
+    "Need score is a squad-depth heuristic, not a tactical diagnosis.",
+    "No verified fee means candidate is excluded from hard-budget optimization.",
+    "No wage, agent fee, contract, registration, injury or negotiation model.",
+    "2025/26 league performance is not a guarantee of 2026/27 performance."
+  ]
+}

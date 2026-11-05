@@ -1,0 +1,25 @@
+{
+  "source": "FBref via soccerdata",
+  "source_docs": "https://soccerdata.readthedocs.io/en/stable/reference/fbref.html",
+  "fbref_league": "ESP-La Liga",
+  "seasons_requested": [
+    "2023-2024",
+    "2024-2025",
+    "2025-2026"
+  ],
+  "scope": "Real Madrid first team, La Liga only",
+  "retrieved_at_utc": "2026-11-05T08:28:00.400181+00:00",
+  "rows_exported": 92,
+  "unique_players": 50,
+  "duplicate_player_season_rows": 0,
+  "files": [
+    "C:\\Users\\1alma\\DataspellProjects\\real-madrid-ai\\data\\processed\\real_madrid_player_season_laliga_2023_2026.csv",
+    "C:\\Users\\1alma\\DataspellProjects\\real-madrid-ai\\data\\processed\\real_madrid_players.csv"
+  ],
+  "limitations": [
+    "FBref may block or rate-limit automated requests.",
+    "Coverage depends on the source's player-season tables.",
+    "This extract is domestic league only, not all competitions.",
+    "Missing metrics can be position-specific or unavailable from source."
+  ]
+}
